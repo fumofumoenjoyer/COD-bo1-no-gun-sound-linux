@@ -1,4 +1,4 @@
-# COD-bo1-no-gun-sound-linux
+# COD-bo1-sound-and-mouse-issues-linux
 I took this from [this reddit comment](https://www.reddit.com/r/wine_gaming/comments/x42esq/comment/lwicm1i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) so credits to u/Outrageous_Welder_78
 
 Basically you need to install these through winetricks/protontricks
