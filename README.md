@@ -3,7 +3,7 @@ I took this from [this reddit comment](https://www.reddit.com/r/wine_gaming/comm
 
 Basically you need to install these through winetricks/protontricks
 
-dx9 (the one with ?? As the desc)
+d3dx9 (the one with ?? As the desc)
 
 vcrun2005, vcrun2008 & vcrun2010 (I found these to be the redists bo1 uses)
 
